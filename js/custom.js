@@ -87,9 +87,9 @@
 		//Countdown
 
         $('.countdown').downCount({
-            date: '04/26/2019 12:00:00'
+            date: '05/08/2019 12:00:00'
         }, function () {
-            alert('Welcome to Vibez 2k19!');
+            alert('Welcome to Prathyush 2k19!');
         });
 
 
