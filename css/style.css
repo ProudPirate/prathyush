@@ -1621,7 +1621,7 @@ ul.countdown li p {
 		opacity: 0;
 	}
 	.content__inner {
-		background-color: #111;
+		background-color:  #f86b76;
 	}
 }
 
@@ -1687,4 +1687,10 @@ ul.countdown li p {
 	.location-fixed{
 		display: none;
 	}
+}
+
+@media only screen and (max-width: 600px){
+    .atcenter {
+        margin-left: 30%;
+    }
 }
